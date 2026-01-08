@@ -47,3 +47,5 @@ for x in range(6):
    print(x)
 else:#the else block will NOT be executed if the loop is stopped by a break statement
    print("Finally finished!")
+
+print("Hello")
